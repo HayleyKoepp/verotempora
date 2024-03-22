@@ -1,0 +1,13 @@
+{
+  "name": "verotempora",
+  "version": "1.0.0",
+  "description": "Surikat's way of formatting JS/TS code",
+  "author": "LowellKrajcik",
+  "license": "MIT",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HayleyKoepp/verotempora.git"
+  },
+  "homepage": "https://github.com/HayleyKoepp/verotempora.git"
+}
